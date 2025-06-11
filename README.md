@@ -102,7 +102,7 @@ If you make use of this code or find it helpful, please consider citing our pape
 
 ## License:
 
-Banyan is available under the Apache 2.0 licence 
+Banyan is available under Apache 2.0 
 
 
 
