@@ -14,7 +14,7 @@ For quick setup on CPU you can just run:
 
 `pip install -r requirements_cpu.txt`
 
-Most likely, however, you'll want to use a GPU and getting DGL (one of the core packages) to install smoothly with pip is a little tricky. A much easier option is to create a conda environment and use that. To do so you can run:
+Most likely, you'll want to use a GPU and getting DGL (one of the core packages) to install smoothly with pip is a little tricky. A much easier option is to create a conda environment and use that. To do so you can run:
 
 `conda env create -f requirements.yaml`
 
@@ -89,7 +89,7 @@ Similarly, for classification eval you can run:
 
 ## Citation:
 
-If you make use of this code our find it helpful, please consider citing our paper:
+If you make use of this code or find it helpful, please consider citing our paper:
 
 <pre> 
 @article{opper2024banyan,
